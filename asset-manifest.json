@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cogni-easy/static/css/main.385df5c3.css",
+    "main.js": "/cogni-easy/static/js/main.e07e944c.js",
+    "static/js/787.e28c21e2.chunk.js": "/cogni-easy/static/js/787.e28c21e2.chunk.js",
+    "index.html": "/cogni-easy/index.html",
+    "main.385df5c3.css.map": "/cogni-easy/static/css/main.385df5c3.css.map",
+    "main.e07e944c.js.map": "/cogni-easy/static/js/main.e07e944c.js.map",
+    "787.e28c21e2.chunk.js.map": "/cogni-easy/static/js/787.e28c21e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.385df5c3.css",
+    "static/js/main.e07e944c.js"
+  ]
+}
